@@ -16,7 +16,7 @@ A simple motivational quote generator built with **Next.js**, **ShadCN UI**, and
 
 ## 🖥️ Preview
 
-> 🌐 [Live Demo on Vercel]( nexium-intern-assignment-1-n0be6x7vm-shayan-aamirs-projects.vercel.app )
+> 🌐 [Live Demo on Vercel](nexium-intern-assignment-1-cuq5-fkp0s1jr0.vercel.app)
 
 ---
 
